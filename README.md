@@ -1,2 +1,2 @@
 # wildrydes-site
-#AWS exercise
+# AWS exercise
