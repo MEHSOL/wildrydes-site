@@ -1,2 +1,0 @@
-# wildrydes-site
-# AWS exercise
